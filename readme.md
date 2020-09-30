@@ -27,6 +27,12 @@
 
 `less` : read a text file
 
+`more` : read a text file
+
+`cat` : read a text file
+
+`echo` : Display a msg
+
 `rm *file name*` : remove a file
 
 `rm -r *directory name*` : remove a directory
